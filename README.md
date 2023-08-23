@@ -1,1 +1,1 @@
-# pf2-renewal
+# samsung-renewal2
