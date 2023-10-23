@@ -7,7 +7,7 @@
 ![삼성](https://github.com/limgahyun02/samsung-original/assets/142555137/fbea16ac-50d9-491e-bbb9-b0bbc0362bf4)
 
 ## 클론 웹사이트 스크린 샷 링크
-클론코딩페이지 url : [[https://limgahyun02.github.io/samsung-original/](https://limgahyun02.github.io/samsung-renewal2/)](https://limgahyun02.github.io/samsung-renewal3/)
+클론코딩페이지 url : https://limgahyun02.github.io/samsung-renewal3/
 (중간크기의 스크린샷 이미지 배치)
 ![(주)삼성전자 홈페이지 - 개인 리뉴얼](https://github.com/limgahyun02/samsung-renewal3/assets/142555137/4d367b59-3eeb-4aae-9a1b-33287ca222c7)
 
